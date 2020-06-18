@@ -1,2 +1,6 @@
 # TO-DO-APP
-ToDo APP Node+Mongo+React+ReactNative
+
+Simples ToDo (Lista de tarefas), Aplicação Web e Mobile, desenvolvida atraves de NodeJS, ReactJs e ReactNative.
+
+
+
