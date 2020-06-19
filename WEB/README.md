@@ -1,9 +1,3 @@
-npm install --save styled-components - styled components
+### React
 
-npm install axios
-
-npm install date-fns
-
-npm install react-router-dom
-
-npm install qrcode.react
+- para testes, baixe o projeto, e basta rodar npm install dentro do diretorio, que todas as depencias serão carregadas.
