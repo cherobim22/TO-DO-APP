@@ -8,6 +8,10 @@ Simples ToDo (Lista de tarefas), Aplicação Web e Mobile, desenvolvida atraves 
 
 ### Observações
 
+```sh
+ $ npm install
+```
+
 -  Projeto desenvolvido para testar as funcionalidades basicas existentes em uma aplicação web.
 - Voce pode baixar e testar o projeto, basta rodar `npm install` no diretorio de cada pasta, para instalar todas as dependencias necessarias.
 
