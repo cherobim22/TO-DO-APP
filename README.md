@@ -9,6 +9,7 @@ Simples ToDo (Lista de tarefas), Aplicação Web e Mobile, desenvolvida atraves 
 ### Observações
 
 ```sh
+Dependencies
  $ npm install
 ```
 
