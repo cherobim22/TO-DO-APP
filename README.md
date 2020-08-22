@@ -13,7 +13,7 @@ Simples ToDo (Lista de tarefas), Aplicação Web e Mobile, desenvolvida atraves 
 ```
 
 - Projeto desenvolvido para testar as funcionalidades basicas existentes em uma aplicação web.
-- NodeJS - https://nodejs.org/en/
+- https://nodejs.org/en/
 - ReactJS - https://pt-br.reactjs.org/
 
    
