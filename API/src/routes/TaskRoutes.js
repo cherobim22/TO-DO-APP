@@ -4,7 +4,6 @@ const router = express.Router();
 const TaskController = require('../controller/TaskController');
 const TaskValidation = require('../middlewares/TaskValidation');
 
-
 router.post('/', TaskValidation, TaskController.create);
 router.get('/filter/all/:macaddress', TaskController.index);
 router.put('/:id', TaskController.update);
