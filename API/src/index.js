@@ -5,7 +5,6 @@ const server = express();
 server.use(express.json());
 server.use(cors());
 
-
 const TaskRoutes = require('./routes/TaskRoutes');
 server.use('/task', TaskRoutes);
 
