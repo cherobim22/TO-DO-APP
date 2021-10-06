@@ -1,6 +1,6 @@
 # TO-DO-APP
 
-Simples ToDo (Lista de tarefas), Aplicação Web e Mobile, desenvolvida atraves de NodeJS, ReactJs.
+Simples ToDo (Lista de tarefas), Aplicação Web e Mobile, desenvolvida através de NodeJS, ReactJs.
 
 <img src="https://github.com/cherobim22/TO-DO-APP/blob/master/images/todo1.png" width="550">
 <img src="https://github.com/cherobim22/TO-DO-APP/blob/master/images/todo2.png"  width="550">
@@ -12,7 +12,7 @@ Simples ToDo (Lista de tarefas), Aplicação Web e Mobile, desenvolvida atraves 
  $ npm install
 ```
 
-- Projeto desenvolvido para testar as funcionalidades basicas existentes em uma aplicação web.
+- Projeto desenvolvido para testar as funcionalidades básicas existentes em uma aplicação web.
 
 
 
