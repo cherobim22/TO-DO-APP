@@ -30,7 +30,7 @@ function QrCode() {
 
       <S.Content>
         <h1>CAPTURE O QRCODE PELO APP</h1>
-        <p>suas atividades serão sincronizadas com a do seu celular.</p>
+        <p>suas atividades serão sincronizadas com as do seu celular.</p>
         <S.QrCodeArea>
           <Qr value='getmacaddress' size={350}/>
         </S.QrCodeArea>
