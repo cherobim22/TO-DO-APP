@@ -36,7 +36,7 @@ function Header({ clickNotification}){
                 <img src={logo} alt="Logo"/>
             </S.LeftSide>
             <S.RightSide>
-            <Link to="/">INICIO</Link>
+            <Link to="/">INÍCIO</Link>
                 <span className="split"/>
                 <Link to="/task"> NOVA TAREFA</Link>
                 <span className="split"/>
